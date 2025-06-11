@@ -1,0 +1,3 @@
+from pipeline.lexicon_classifier import run_lexicon_classifier
+
+run_lexicon_classifier()

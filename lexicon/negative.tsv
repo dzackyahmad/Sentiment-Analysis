@@ -1,0 +1,3001 @@
+kata	skor
+bad UX	-1
+tidak adaptif	-3
+keliru	-3
+gaduh	-3
+keraguan	-5
+gagal login	-1
+tidak optimis	-5
+tidak ada update	-5
+tidak bermanfaat	-3
+layanan buruk	-4
+kualitas rendah	-3
+tanpa arahan	-1
+terdistraksi	-2
+tragis	-3
+tidak terlindungi	-3
+gagal sinkron	-5
+tidak intuitif	-2
+berbelit-belit	-5
+hancur	-1
+terekspos	-4
+tidak percaya	-3
+ketinggalan	-1
+ricuh	-4
+belum sempurna	-4
+busuk	-1
+tidak bisa diunggah	-3
+seram	-5
+restart sendiri	-4
+tidak bisa ditutup	-2
+warna pudar	-3
+tragedi	-4
+menyesal	-3
+rentan virus	-1
+keluar sendiri	-4
+penipu	-3
+tidak ramah	-5
+gagal total	-2
+pengembang cuek	-1
+berisik	-2
+sulit dipakai	-2
+mengerikan	-3
+berubah-ubah	-3
+versi lama	-2
+blur	-5
+masalah berlarut	-4
+bising	-4
+keputusasaan	-5
+ambigu	-4
+mengancam	-2
+tidak jujur	-1
+pesimis	-5
+krisis	-3
+tidak peduli	-3
+force close	-4
+selesai	-3
+membingungkan	-2
+rapuh	-4
+tidak sah	-5
+akses ditolak	-2
+ringkih	-1
+menyebalkan	-1
+kerugian	-1
+tidak konsentrasi	-5
+tidak nyambung	-1
+tidak ada dukungan	-4
+regret	-4
+respon lambat	-2
+tidak responsif layar	-4
+menguras	-4
+inferior	-5
+menakutkan	-1
+ketidakpastian	-4
+bocor	-2
+merepotkan	-5
+mengganggu	-3
+salah	-1
+kiamat	-5
+berpotensi bahaya	-4
+jelek sekali	-3
+bangkrut	-4
+acak-acakan	-3
+tidak sesuai	-4
+ilegal	-2
+basi	-5
+kehancuran	-4
+tidak otomatis	-5
+tidak ada perbaikan	-4
+menjijikkan	-1
+prasangka	-1
+menjengkelkan	-2
+pilihan terbatas	-2
+kedaluwarsa	-4
+masih beta	-3
+kacau	-1
+menyepelekan	-5
+tidak didengar	-2
+tidak ada respon	-1
+melanggar hukum	-1
+tidak bisa dihapus	-2
+neraka	-5
+bikin pusing	-4
+lemot	-1
+kurang jelas	-4
+terpuruk	-5
+gulung tikar	-5
+cacat	-5
+tidak up to date	-5
+tidak ditemukan	-3
+sembunyi-sembunyi	-2
+tidak ada bantuan	-1
+membuang daya	-1
+kosong	-3
+terenkripsi	-4
+hilang data	-4
+kurang estetis	-2
+tidak terbaca	-1
+sering logout	-5
+berantakan	-5
+tidak recommended	-1
+terburuk	-1
+samar	-2
+memecah perhatian	-2
+illegal	-1
+berani	-4
+membebani	-3
+tidak peka	-5
+kabur	-4
+menyimpang	-3
+sangat jelek	-3
+tidak support	-3
+kuno	-1
+bobrok	-1
+buruk rupa	-1
+hang	-2
+tidak sistematis	-3
+menyesatkan	-4
+mengabaikan	-4
+fitur berbayar tersembunyi	-1
+data bocor	-2
+menyusahkan	-2
+membuang waktu	-3
+nge-freeze	-1
+tidak pantas	-4
+rumit	-2
+gambar pecah	-5
+hampa	-1
+mencurigakan	-5
+malapetaka	-4
+tidak kompatibel	-1
+tidak maksimal	-1
+pemborosan	-1
+tidak patut	-1
+boros baterai	-2
+salah otorisasi	-5
+menipu	-1
+tanpa solusi	-5
+tidak jelas	-1
+terbelakang	-2
+sering down	-1
+licik	-5
+bikin kesel	-3
+file rusak	-3
+buang-buang uang	-2
+gagal	-1
+merugikan	-2
+tidak bisa save	-1
+kecelakaan	-5
+trouble	-5
+warna tabrakan	-1
+kusam	-3
+tidak aman	-5
+tidak berguna	-2
+laggy	-2
+menguras baterai	-5
+tidak responsif	-1
+tidak presisi	-5
+berakhir	-1
+curiga	-2
+tertinggal	-3
+penipuan	-3
+menguras kuota	-5
+tidak transparan	-3
+tidak diindahkan	-2
+horor	-5
+tidak tertata	-1
+tidak user-friendly	-4
+musibah	-5
+tidak bisa buka	-3
+bahaya	-5
+tidak ada masa depan	-5
+kehampaan	-1
+mundur	-4
+bikin bingung	-1
+terputus	-1
+tidak direspon	-2
+tidak ada suara	-3
+tidak berfungsi	-5
+melanggar	-4
+penanganan buruk	-5
+tidak sepadan	-2
+kalah	-3
+data hilang	-4
+mental	-4
+mati total	-3
+sia-sia	-2
+bencana	-3
+redup	-5
+terhambat	-5
+rentan	-2
+kompleks	-1
+tidak bermoral	-2
+tidak akurat	-4
+tidak penting	-1
+peringatan merah	-5
+kurang fitur	-3
+memakan memori	-1
+beku	-1
+kejam	-4
+tidak pasti	-1
+berat	-1
+tidak adil	-4
+penyelesaian sulit	-4
+fitur dicabut	-3
+tidak berhubungan	-5
+crash terus	-5
+monoton	-1
+tidak etis	-4
+kerusakan	-3
+tidak signifikan	-1
+kadaluarsa	-2
+keluar topik	-2
+memusingkan	-5
+spekulatif	-3
+sembarangan	-3
+trouble koneksi	-2
+tidak terdeteksi	-4
+terputus-putus	-3
+parah	-5
+tidak puas	-3
+tidak diizinkan	-2
+terkunci	-5
+pesan error	-5
+tidak efisien	-3
+privasi terancam	-3
+meremehkan	-3
+petaka	-5
+belum matang	-1
+gelap	-5
+tidak bisa diandalkan	-5
+menyerah	-1
+terlalu kompleks	-3
+banyak iklan	-5
+memilukan	-5
+lapuk	-1
+font aneh	-3
+tidak efektif	-5
+nyebelin	-2
+korup	-3
+mengenaskan	-2
+melenceng	-2
+terbuka	-2
+suara serak	-1
+terpecah	-5
+ribet	-2
+darurat	-1
+error kode	-1
+gangguan	-5
+tidak jalan	-1
+kumuh	-4
+penuh bug	-4
+usang	-4
+tidak tentu	-2
+janji palsu	-1
+spam	-1
+tidak valid	-1
+kaku	-1
+mudah diserang	-1
+menyayat hati	-2
+ikon membingungkan	-4
+servis buruk	-1
+tidak bisa dicari	-2
+produk cacat	-4
+brutal	-4
+petunjuk minim	-1
+dukungan buruk	-2
+tidak sesuai deskripsi	-4
+tidak terencana	-2
+murahan	-5
+freezing	-1
+tidak layak	-2
+crash mendadak	-3
+penghamburan	-3
+lemah	-5
+gema	-3
+putus	-5
+stuck	-5
+buram	-2
+rusak	-1
+tidak jernih	-5
+rawan	-3
+rendah	-3
+terbatas	-3
+iklan menyesatkan	-3
+menyedihkan	-1
+kurang relevan	-5
+ancaman	-1
+tidak variatif	-5
+tidak ada janji	-5
+jadul	-2
+mengecewakan	-5
+tidak cocok	-1
+buruk	-5
+gagal inisialisasi	-1
+mengganggu fokus	-5
+berbahaya	-5
+tiruan	-3
+jelek	-4
+outdated	-3
+palsu	-3
+terganggu	-3
+kontras buruk	-1
+tidak bisa diakses	-3
+tidak estetis	-3
+tidak terhubung	-5
+banyak masalah	-1
+susah diatur	-3
+ngadat	-5
+tidak stabil	-2
+malah mempersulit	-4
+tidak teratur	-4
+terhenti	-3
+berhenti tiba-tiba	-2
+tidak sync	-5
+tidak siap	-3
+boros kuota	-3
+tidak fokus	-1
+izin kurang	-4
+tidak dikenali	-3
+ngeri	-2
+tampilan kuno	-2
+berisiko	-4
+tidak konsisten	-1
+membosankan	-2
+error terus	-3
+tidak bisa dibuka	-1
+tidak lengkap	-1
+tidak ada isinya	-2
+lambat	-3
+interupsi	-2
+negatif	-5
+penuh celah	-4
+tidak produktif	-4
+tidak logis	-4
+mahal	-3
+pixelated	-2
+menyeramkan	-2
+bikin marah	-3
+tidak bisa diunduh	-1
+tidak bisa diubah	-2
+tidak menarik	-4
+suram	-5
+macet	-3
+abai	-4
+konten minim	-2
+tutup	-1
+ketidakpercayaan	-2
+tidak manusiawi	-2
+dibatasi	-2
+terblokir	-2
+risiko	-1
+fitur kosong	-4
+paling buruk	-5
+tidak lengkap mulu	-1
+terputus doang	-1
+interupsi doang	-1
+pengembang cuek parah	-5
+buang-buang uang banget	-4
+ricuh parah	-1
+bad UX terus	-3
+tidak ada respon parah	-4
+menipu mulu	-5
+penyelesaian sulit fatal	-5
+janji palsu banget	-1
+tidak stabil bikin emosi	-5
+licik dan bikin kesel	-3
+memakan memori mulu	-2
+gagal total banget	-3
+banyak iklan doang	-4
+terblokir fatal	-5
+tidak ada masa depan mulu	-2
+crash terus fatal	-5
+seram dan bikin kesel	-1
+force close banget	-1
+terhambat bikin emosi	-4
+membingungkan ngeselin	-1
+berakhir doang	-1
+parah ngeselin	-4
+tidak responsif layar parah	-5
+ancaman banget	-1
+terputus-putus mulu	-4
+iklan menyesatkan dan bikin kesel	-1
+meremehkan terus	-5
+tidak variatif banget	-5
+tidak stabil fatal	-5
+bencana mulu	-4
+tidak berguna dan bikin kesel	-5
+pilihan terbatas banget	-4
+stuck dan bikin kesel	-3
+tidak ramah banget	-2
+tidak bisa save banget	-1
+pemborosan fatal	-2
+lemot banget	-4
+gema fatal	-1
+spekulatif ngeselin	-1
+risiko dan bikin kesel	-4
+merepotkan doang	-3
+pixelated mulu	-2
+gelap doang	-1
+ngadat fatal	-2
+trouble bikin emosi	-5
+terlalu kompleks bikin emosi	-5
+terpuruk fatal	-2
+bikin marah terus	-2
+tidak support terus	-4
+petaka mulu	-3
+paling buruk fatal	-2
+tidak puas dan bikin kesel	-1
+laggy fatal	-2
+bikin bingung mulu	-2
+tidak percaya mulu	-5
+tidak ramah terus	-1
+darurat bikin emosi	-1
+macet parah	-1
+terbuka terus	-4
+rumit bikin emosi	-5
+tidak signifikan fatal	-2
+tidak akurat bikin emosi	-3
+tidak ada masa depan dan bikin kesel	-3
+darurat parah	-4
+korup parah	-4
+bikin pusing mulu	-2
+tidak konsisten doang	-5
+tragis terus	-2
+tidak up to date doang	-3
+berhenti tiba-tiba dan bikin kesel	-5
+kiamat terus	-1
+kiamat doang	-1
+rusak bikin emosi	-4
+tidak signifikan parah	-5
+tidak bisa ditutup mulu	-2
+mengecewakan banget	-1
+file rusak banget	-3
+gagal login bikin emosi	-4
+tutup fatal	-5
+privasi terancam parah	-4
+tidak ada janji dan bikin kesel	-5
+buang-buang uang dan bikin kesel	-1
+berhenti tiba-tiba parah	-2
+tanpa solusi mulu	-1
+tidak aman mulu	-4
+kurang estetis terus	-2
+tidak konsisten ngeselin	-4
+macet doang	-2
+pilihan terbatas ngeselin	-2
+tidak tertata terus	-1
+sembunyi-sembunyi fatal	-3
+terlalu kompleks mulu	-3
+menakutkan dan bikin kesel	-3
+membosankan fatal	-4
+ricuh bikin emosi	-4
+tidak support banget	-1
+kedaluwarsa dan bikin kesel	-2
+terblokir terus	-5
+curiga banget	-4
+petaka dan bikin kesel	-5
+berbelit-belit parah	-2
+rendah ngeselin	-5
+tragedi dan bikin kesel	-5
+rentan virus terus	-3
+tidak cocok dan bikin kesel	-5
+terputus-putus dan bikin kesel	-3
+boros kuota banget	-2
+ngadat bikin emosi	-1
+freezing doang	-2
+tragis fatal	-5
+spekulatif bikin emosi	-5
+melanggar terus	-2
+busuk banget	-5
+samar banget	-4
+sangat jelek ngeselin	-4
+tidak sah terus	-2
+brutal doang	-2
+sembunyi-sembunyi terus	-2
+tidak bermanfaat bikin emosi	-3
+gagal sinkron mulu	-4
+tragedi mulu	-5
+tidak bisa diakses banget	-3
+berantakan parah	-5
+jadul doang	-4
+spekulatif mulu	-4
+terbatas fatal	-5
+sangat jelek fatal	-2
+putus parah	-5
+force close bikin emosi	-1
+penuh celah doang	-5
+bocor terus	-2
+salah otorisasi mulu	-2
+tidak stabil banget	-1
+kualitas rendah fatal	-3
+berani banget	-1
+tidak estetis bikin emosi	-2
+tidak terbaca banget	-3
+memusingkan parah	-1
+illegal fatal	-2
+lemot fatal	-1
+tidak produktif ngeselin	-5
+kecelakaan fatal	-2
+tidak ada janji mulu	-4
+fitur kosong fatal	-2
+menyedihkan parah	-5
+negatif ngeselin	-5
+jelek bikin emosi	-1
+menyepelekan bikin emosi	-1
+kurang relevan dan bikin kesel	-1
+restart sendiri fatal	-3
+ambigu doang	-5
+tidak etis dan bikin kesel	-2
+gagal sinkron dan bikin kesel	-5
+membebani dan bikin kesel	-2
+error terus ngeselin	-5
+tidak akurat dan bikin kesel	-3
+krisis terus	-3
+privasi terancam mulu	-1
+berhenti tiba-tiba fatal	-2
+kaku doang	-3
+tidak ada respon mulu	-5
+restart sendiri mulu	-2
+terhenti mulu	-1
+menyebalkan ngeselin	-2
+keputusasaan dan bikin kesel	-1
+malah mempersulit fatal	-5
+bikin marah dan bikin kesel	-3
+data bocor ngeselin	-2
+mengecewakan parah	-5
+tidak sesuai bikin emosi	-4
+tidak jujur dan bikin kesel	-2
+ketinggalan terus	-5
+tidak sesuai dan bikin kesel	-2
+tidak direspon mulu	-2
+banyak masalah ngeselin	-2
+tidak sepadan ngeselin	-4
+palsu mulu	-5
+merugikan terus	-3
+tidak diizinkan terus	-3
+tidak siap ngeselin	-2
+bikin kesel ngeselin	-2
+sembarangan terus	-2
+rentan virus dan bikin kesel	-3
+seram doang	-3
+ngeri dan bikin kesel	-3
+pemborosan mulu	-5
+lapuk doang	-5
+kedaluwarsa parah	-4
+trouble koneksi ngeselin	-5
+abai mulu	-4
+terpuruk ngeselin	-3
+terdistraksi terus	-1
+pesan error dan bikin kesel	-4
+pengembang cuek doang	-5
+terbuka bikin emosi	-1
+malapetaka fatal	-2
+suram doang	-1
+tidak teratur parah	-4
+tidak berhubungan banget	-2
+berbahaya bikin emosi	-4
+terblokir parah	-3
+layanan buruk banget	-3
+boros kuota bikin emosi	-5
+berakhir banget	-3
+memusingkan terus	-2
+mundur fatal	-5
+kehampaan mulu	-5
+korup bikin emosi	-2
+membuang daya banget	-1
+rusak banget	-3
+tidak ada isinya dan bikin kesel	-4
+tidak peka banget	-1
+berisik terus	-1
+peringatan merah fatal	-1
+kontras buruk fatal	-3
+berbahaya dan bikin kesel	-4
+penipu mulu	-5
+memecah perhatian bikin emosi	-5
+mengabaikan dan bikin kesel	-4
+data hilang ngeselin	-5
+lapuk mulu	-4
+tidak valid fatal	-4
+konten minim bikin emosi	-5
+kabur mulu	-4
+penghamburan banget	-1
+tidak presisi ngeselin	-4
+murahan bikin emosi	-5
+ribet doang	-3
+sembarangan parah	-3
+tidak efektif bikin emosi	-3
+sia-sia terus	-5
+warna pudar dan bikin kesel	-2
+ngadat mulu	-4
+tidak layak doang	-5
+tidak bisa diakses dan bikin kesel	-5
+crash mendadak dan bikin kesel	-5
+rapuh dan bikin kesel	-5
+terputus parah	-5
+mental parah	-3
+menguras dan bikin kesel	-1
+rapuh bikin emosi	-4
+ikon membingungkan terus	-3
+tidak ada respon dan bikin kesel	-2
+terekspos ngeselin	-4
+tidak user-friendly banget	-5
+menyedihkan dan bikin kesel	-3
+bangkrut fatal	-5
+belum matang mulu	-1
+gambar pecah mulu	-4
+brutal ngeselin	-3
+tidak intuitif mulu	-3
+berpotensi bahaya dan bikin kesel	-2
+selesai bikin emosi	-5
+tidak kompatibel parah	-4
+tidak intuitif doang	-2
+risiko doang	-3
+mencurigakan doang	-4
+tidak berhubungan ngeselin	-3
+tidak bermoral banget	-3
+menyesal ngeselin	-4
+buruk rupa banget	-1
+darurat doang	-4
+trouble doang	-3
+tidak patut bikin emosi	-5
+lemah ngeselin	-3
+tidak bermanfaat parah	-4
+dibatasi parah	-1
+dukungan buruk doang	-2
+dukungan buruk parah	-5
+terblokir doang	-3
+tragis dan bikin kesel	-4
+sering down ngeselin	-1
+tidak peduli mulu	-4
+masalah berlarut doang	-5
+iklan menyesatkan ngeselin	-3
+freezing ngeselin	-2
+tidak otomatis fatal	-1
+tidak terbaca ngeselin	-2
+tidak ada masa depan terus	-5
+memilukan banget	-5
+acak-acakan fatal	-4
+pilihan terbatas mulu	-2
+tidak responsif parah	-1
+bangkrut terus	-4
+file rusak mulu	-2
+menakutkan ngeselin	-4
+boros kuota mulu	-5
+kiamat fatal	-2
+kehancuran parah	-5
+boros baterai fatal	-2
+privasi terancam dan bikin kesel	-1
+tidak didengar mulu	-2
+sering down mulu	-2
+penipuan parah	-2
+pixelated terus	-2
+penghamburan mulu	-2
+mengancam dan bikin kesel	-5
+horor parah	-4
+nge-freeze banget	-2
+tidak tertata fatal	-5
+mengabaikan fatal	-4
+merugikan fatal	-5
+menjengkelkan fatal	-3
+gagal login ngeselin	-2
+hancur doang	-3
+hilang data ngeselin	-2
+mahal bikin emosi	-3
+menyusahkan doang	-1
+kabur terus	-2
+tidak bermanfaat terus	-1
+berbahaya doang	-3
+memecah perhatian banget	-2
+membingungkan banget	-5
+gagal sinkron ngeselin	-2
+tidak jelas mulu	-2
+tidak stabil parah	-5
+mati total bikin emosi	-4
+tidak pantas doang	-1
+penuh bug banget	-3
+tidak bermanfaat doang	-1
+tidak produktif dan bikin kesel	-2
+tidak bisa diandalkan doang	-1
+selesai parah	-2
+tidak jujur bikin emosi	-5
+tidak berguna banget	-3
+meremehkan doang	-2
+tidak peduli fatal	-1
+tidak maksimal parah	-1
+kurang estetis bikin emosi	-2
+tidak ada dukungan banget	-3
+tidak pantas ngeselin	-5
+terganggu bikin emosi	-5
+tidak efisien fatal	-5
+mundur doang	-4
+tidak terhubung banget	-5
+macet banget	-2
+tidak sync bikin emosi	-1
+spekulatif banget	-4
+dukungan buruk ngeselin	-1
+melanggar bikin emosi	-1
+tidak terlindungi bikin emosi	-1
+terhambat banget	-1
+menguras baterai doang	-2
+rumit banget	-3
+tidak aman terus	-1
+pesan error doang	-5
+tidak ada suara doang	-1
+tidak intuitif parah	-1
+menjengkelkan mulu	-1
+tidak fokus ngeselin	-5
+pesimis banget	-5
+bikin kesel terus	-3
+masalah berlarut dan bikin kesel	-3
+bencana banget	-3
+memilukan terus	-5
+usang dan bikin kesel	-4
+keluar topik ngeselin	-5
+gagal fatal	-3
+mati total mulu	-4
+gagal mulu	-4
+force close ngeselin	-5
+keraguan doang	-3
+berat parah	-5
+sembarangan ngeselin	-5
+menyesatkan banget	-4
+tidak terhubung terus	-2
+tidak transparan mulu	-4
+berpotensi bahaya bikin emosi	-3
+tidak bermanfaat mulu	-2
+tidak penting terus	-5
+putus dan bikin kesel	-5
+error kode bikin emosi	-2
+belum sempurna banget	-5
+terbuka mulu	-4
+melenceng banget	-5
+penanganan buruk banget	-5
+tidak sistematis ngeselin	-4
+fitur kosong parah	-4
+curiga parah	-2
+respon lambat doang	-5
+rentan virus mulu	-1
+interupsi fatal	-3
+pengembang cuek mulu	-5
+belum sempurna bikin emosi	-5
+gulung tikar ngeselin	-5
+terenkripsi ngeselin	-4
+fitur kosong mulu	-5
+laggy dan bikin kesel	-4
+menguras kuota ngeselin	-1
+pesimis ngeselin	-3
+buruk mulu	-1
+tidak direspon dan bikin kesel	-5
+tidak ada bantuan dan bikin kesel	-5
+force close parah	-3
+file rusak fatal	-3
+tidak menarik ngeselin	-5
+suara serak parah	-3
+fitur kosong doang	-3
+beku parah	-2
+tidak ada update terus	-2
+banyak iklan mulu	-4
+merepotkan banget	-1
+servis buruk mulu	-4
+terlalu kompleks parah	-3
+pesimis parah	-4
+regret mulu	-1
+tidak jelas doang	-4
+tidak intuitif bikin emosi	-5
+melanggar doang	-2
+korup fatal	-4
+tidak tertata mulu	-1
+tanpa arahan mulu	-3
+tidak ada bantuan parah	-3
+bikin bingung parah	-1
+tidak logis bikin emosi	-1
+kuno bikin emosi	-3
+berat mulu	-5
+kecelakaan ngeselin	-5
+terdistraksi dan bikin kesel	-4
+selesai doang	-4
+tidak responsif layar fatal	-5
+bad UX dan bikin kesel	-1
+tidak direspon banget	-3
+suara serak terus	-2
+membuang daya doang	-2
+servis buruk bikin emosi	-3
+tidak adaptif bikin emosi	-3
+tidak tentu fatal	-4
+tidak kompatibel ngeselin	-3
+tidak responsif mulu	-4
+tidak ramah bikin emosi	-5
+kiamat dan bikin kesel	-2
+terburuk mulu	-4
+tidak penting bikin emosi	-3
+penipuan doang	-2
+tidak peka bikin emosi	-5
+mahal dan bikin kesel	-4
+crash terus terus	-2
+gagal banget	-4
+lapuk dan bikin kesel	-5
+mengerikan parah	-4
+mengganggu fokus mulu	-1
+mudah diserang ngeselin	-2
+buruk doang	-3
+menyepelekan doang	-1
+penuh bug fatal	-1
+rentan virus fatal	-5
+tidak didengar banget	-2
+tidak kompatibel mulu	-2
+terkunci fatal	-1
+menyebalkan banget	-5
+penuh bug ngeselin	-3
+restart sendiri doang	-2
+tidak manusiawi parah	-1
+izin kurang parah	-2
+rumit mulu	-5
+tidak ada isinya ngeselin	-1
+terganggu parah	-5
+tidak sync fatal	-3
+tidak bisa dicari doang	-5
+konten minim banget	-1
+kacau ngeselin	-1
+terblokir ngeselin	-1
+redup banget	-2
+bikin bingung terus	-2
+gema terus	-2
+melanggar ngeselin	-2
+neraka fatal	-4
+tidak valid parah	-5
+terhambat ngeselin	-4
+tidak bisa diunduh terus	-1
+gulung tikar mulu	-2
+bangkrut ngeselin	-4
+terhenti banget	-3
+tidak recommended dan bikin kesel	-5
+tidak konsentrasi terus	-4
+tidak adaptif parah	-5
+menyedihkan ngeselin	-2
+kurang jelas terus	-5
+jelek ngeselin	-4
+menyepelekan banget	-5
+paling buruk terus	-2
+mengecewakan ngeselin	-1
+tragis mulu	-5
+tampilan kuno doang	-2
+berakhir ngeselin	-5
+gema bikin emosi	-1
+lambat doang	-2
+tidak transparan fatal	-3
+buram doang	-4
+tidak adil bikin emosi	-2
+kusam mulu	-2
+force close terus	-1
+menjengkelkan banget	-5
+kusam banget	-5
+pixelated parah	-5
+kualitas rendah banget	-2
+kusam doang	-5
+hang mulu	-3
+error kode fatal	-5
+tidak diindahkan bikin emosi	-2
+susah diatur ngeselin	-4
+menipu parah	-3
+tidak terhubung bikin emosi	-1
+tidak didengar doang	-4
+buang-buang uang fatal	-1
+berpotensi bahaya mulu	-5
+kerusakan banget	-5
+outdated banget	-3
+tidak berfungsi fatal	-5
+terburuk fatal	-3
+jadul banget	-1
+melanggar dan bikin kesel	-3
+samar mulu	-5
+trouble ngeselin	-3
+kompleks ngeselin	-3
+illegal bikin emosi	-1
+menjengkelkan dan bikin kesel	-1
+interupsi parah	-5
+bocor doang	-5
+berpotensi bahaya parah	-2
+tidak stabil mulu	-5
+tidak ada bantuan banget	-2
+kedaluwarsa fatal	-5
+cacat mulu	-5
+kuno ngeselin	-5
+palsu fatal	-5
+tidak bisa diubah banget	-1
+banyak masalah dan bikin kesel	-2
+crash terus banget	-5
+menyepelekan ngeselin	-5
+ngadat terus	-4
+tidak transparan dan bikin kesel	-3
+tidak responsif layar banget	-2
+belum matang terus	-4
+tidak efektif ngeselin	-3
+tidak bisa ditutup parah	-4
+banyak iklan banget	-3
+gambar pecah parah	-2
+pesan error parah	-1
+mengecewakan fatal	-5
+penipu bikin emosi	-3
+boros kuota doang	-2
+menguras fatal	-5
+bahaya doang	-3
+tidak manusiawi dan bikin kesel	-2
+tidak pantas parah	-5
+tidak bisa dihapus doang	-1
+lambat ngeselin	-2
+berakhir parah	-2
+gaduh ngeselin	-3
+font aneh banget	-4
+tidak transparan doang	-4
+pilihan terbatas doang	-1
+tiruan mulu	-5
+layanan buruk ngeselin	-3
+mengancam banget	-4
+kuno terus	-4
+suara serak bikin emosi	-2
+gagal inisialisasi mulu	-3
+menguras baterai banget	-1
+gagal inisialisasi parah	-3
+buruk banget	-5
+terputus-putus parah	-2
+macet ngeselin	-3
+kejam banget	-1
+mental mulu	-3
+stuck bikin emosi	-2
+mental terus	-3
+file rusak terus	-5
+gagal login terus	-3
+keliru fatal	-5
+tidak sah banget	-1
+gambar pecah doang	-1
+risiko ngeselin	-2
+menipu terus	-1
+tidak optimis bikin emosi	-1
+menyesal terus	-1
+tidak peka doang	-2
+risiko fatal	-3
+illegal parah	-1
+tampilan kuno dan bikin kesel	-5
+berisik bikin emosi	-3
+spam terus	-3
+memilukan dan bikin kesel	-4
+suara serak mulu	-2
+warna pudar ngeselin	-3
+berisik doang	-2
+terbelakang fatal	-4
+tidak terdeteksi parah	-1
+rawan ngeselin	-4
+tidak sync doang	-2
+tidak layak parah	-5
+jelek terus	-5
+tiruan ngeselin	-2
+produk cacat parah	-1
+fitur berbayar tersembunyi ngeselin	-4
+tertinggal terus	-3
+tidak akurat doang	-5
+peringatan merah doang	-4
+tidak ada update mulu	-4
+suram banget	-5
+sembarangan dan bikin kesel	-2
+tidak didengar ngeselin	-1
+belum matang dan bikin kesel	-1
+trouble koneksi terus	-4
+gagal sinkron terus	-1
+mengenaskan parah	-1
+sangat jelek doang	-3
+malapetaka dan bikin kesel	-4
+tidak ada bantuan bikin emosi	-3
+busuk terus	-5
+tidak bisa dicari ngeselin	-3
+tidak otomatis parah	-3
+mengabaikan terus	-3
+basi ngeselin	-1
+lemot terus	-2
+melanggar banget	-2
+kehancuran doang	-4
+warna tabrakan terus	-4
+menyebalkan terus	-2
+bikin marah fatal	-5
+stuck doang	-2
+pesimis dan bikin kesel	-5
+penipu doang	-5
+keliru mulu	-2
+terbatas doang	-5
+tidak jelas bikin emosi	-5
+melanggar hukum bikin emosi	-4
+beku banget	-3
+tidak ada respon ngeselin	-1
+tanpa arahan doang	-5
+tidak intuitif dan bikin kesel	-2
+tidak signifikan doang	-1
+tidak diindahkan dan bikin kesel	-1
+membuang waktu doang	-4
+kosong bikin emosi	-1
+paling buruk parah	-1
+merugikan bikin emosi	-1
+tidak valid mulu	-4
+ketinggalan fatal	-3
+musibah ngeselin	-2
+tidak produktif fatal	-1
+terganggu dan bikin kesel	-4
+brutal bikin emosi	-2
+sering logout terus	-3
+sangat jelek bikin emosi	-2
+tidak terbaca parah	-5
+tidak sesuai banget	-3
+tidak percaya terus	-5
+rapuh doang	-4
+tidak up to date ngeselin	-5
+mengecewakan doang	-1
+tidak adil parah	-1
+tidak sepadan parah	-3
+kompleks banget	-1
+tidak efisien doang	-1
+ringkih parah	-1
+tidak ramah dan bikin kesel	-1
+kejam parah	-5
+kompleks doang	-1
+tidak stabil ngeselin	-3
+tidak berfungsi dan bikin kesel	-5
+mengganggu dan bikin kesel	-5
+jelek doang	-3
+tidak diizinkan dan bikin kesel	-3
+terputus mulu	-3
+tidak jalan parah	-4
+tidak bisa diunduh doang	-5
+tidak ada update ngeselin	-5
+tidak logis mulu	-1
+berubah-ubah fatal	-3
+menyedihkan bikin emosi	-1
+terekspos terus	-3
+tragis bikin emosi	-5
+hancur banget	-2
+keliru banget	-2
+tidak sesuai parah	-1
+acak-acakan dan bikin kesel	-5
+bahaya terus	-2
+negatif doang	-3
+fitur dicabut bikin emosi	-5
+menipu doang	-5
+izin kurang bikin emosi	-1
+menyedihkan banget	-1
+produk cacat banget	-1
+kompleks mulu	-4
+melenceng doang	-3
+brutal dan bikin kesel	-2
+ricuh banget	-5
+keraguan bikin emosi	-2
+menakutkan mulu	-2
+membingungkan dan bikin kesel	-3
+tidak didengar fatal	-3
+sering down parah	-4
+tidak berguna parah	-1
+kacau terus	-5
+kadaluarsa fatal	-4
+penyelesaian sulit banget	-4
+blur fatal	-4
+berubah-ubah terus	-4
+tidak fokus fatal	-1
+curiga bikin emosi	-1
+malapetaka banget	-4
+berat banget	-3
+kusam parah	-3
+kurang fitur parah	-1
+menguras ngeselin	-3
+suram fatal	-5
+tidak responsif bikin emosi	-4
+penghamburan terus	-3
+berantakan terus	-1
+banyak masalah terus	-1
+membebani fatal	-3
+mengganggu fokus fatal	-4
+pesan error ngeselin	-2
+peringatan merah terus	-2
+korup mulu	-1
+dibatasi bikin emosi	-3
+tidak ada perbaikan banget	-5
+ringkih dan bikin kesel	-5
+bobrok fatal	-2
+mengabaikan mulu	-3
+tidak support fatal	-5
+sulit dipakai dan bikin kesel	-4
+crash terus dan bikin kesel	-3
+tidak bisa ditutup terus	-1
+gelap parah	-3
+warna pudar bikin emosi	-4
+trouble terus	-1
+mengerikan fatal	-1
+gagal inisialisasi banget	-5
+kontras buruk banget	-2
+tidak patut parah	-3
+pesimis bikin emosi	-1
+terpuruk banget	-4
+tiruan terus	-1
+terpuruk parah	-3
+terbatas terus	-2
+tidak didengar terus	-2
+penanganan buruk doang	-3
+tidak recommended terus	-5
+terbuka banget	-4
+bahaya parah	-5
+hilang data mulu	-2
+horor fatal	-2
+membingungkan bikin emosi	-5
+belum matang fatal	-5
+menyayat hati ngeselin	-2
+memakan memori ngeselin	-2
+tidak jernih banget	-2
+buruk terus	-1
+mengganggu fokus parah	-2
+gagal inisialisasi terus	-3
+korup terus	-1
+jadul parah	-5
+tanpa arahan parah	-3
+bocor mulu	-1
+membebani ngeselin	-5
+tampilan kuno mulu	-1
+terlalu kompleks banget	-1
+tragis doang	-2
+tidak stabil doang	-3
+tidak lengkap terus	-5
+terkunci banget	-4
+tidak ada dukungan parah	-1
+banyak iklan terus	-4
+malah mempersulit bikin emosi	-3
+crash mendadak fatal	-5
+macet mulu	-3
+tidak akurat terus	-4
+berakhir mulu	-1
+darurat fatal	-5
+kalah banget	-5
+belum sempurna parah	-4
+redup doang	-3
+hilang data bikin emosi	-1
+jelek mulu	-4
+lemot doang	-2
+tidak valid bikin emosi	-2
+rumit doang	-5
+rusak fatal	-4
+menyusahkan parah	-1
+menyusahkan fatal	-3
+tidak terlindungi banget	-4
+tidak berguna mulu	-5
+tidak berfungsi doang	-2
+tidak tentu dan bikin kesel	-3
+tidak ada masa depan parah	-1
+risiko banget	-2
+malah mempersulit mulu	-5
+terbuka parah	-1
+tidak tentu mulu	-5
+busuk fatal	-5
+tanpa solusi fatal	-4
+tidak diindahkan parah	-4
+kacau fatal	-1
+keluar topik terus	-4
+kumuh doang	-1
+tidak maksimal banget	-3
+kurang fitur mulu	-5
+gulung tikar dan bikin kesel	-5
+abai ngeselin	-1
+sembunyi-sembunyi doang	-1
+sembunyi-sembunyi ngeselin	-4
+menyeramkan parah	-2
+bising bikin emosi	-3
+gangguan parah	-4
+tiruan banget	-2
+tidak user-friendly terus	-2
+gagal sinkron doang	-3
+servis buruk terus	-1
+menyepelekan dan bikin kesel	-3
+masalah berlarut parah	-2
+tidak jujur doang	-5
+membosankan doang	-5
+berat terus	-4
+bising banget	-5
+menyesatkan parah	-5
+neraka ngeselin	-1
+krisis mulu	-5
+ngadat dan bikin kesel	-5
+penipuan banget	-2
+bad UX bikin emosi	-5
+tidak diizinkan ngeselin	-5
+hang bikin emosi	-1
+terlalu kompleks dan bikin kesel	-1
+prasangka banget	-4
+font aneh parah	-5
+krisis banget	-2
+tidak pasti doang	-1
+menyebalkan parah	-1
+terkunci ngeselin	-1
+tidak efisien bikin emosi	-4
+gangguan bikin emosi	-2
+kosong mulu	-4
+berubah-ubah dan bikin kesel	-2
+tidak terencana mulu	-3
+mengerikan ngeselin	-1
+tidak jernih terus	-1
+keraguan dan bikin kesel	-2
+terpecah banget	-2
+tidak bisa save terus	-4
+mahal doang	-5
+mati total parah	-1
+keliru ngeselin	-4
+memecah perhatian ngeselin	-4
+ketinggalan bikin emosi	-5
+tidak ada update dan bikin kesel	-3
+rusak parah	-1
+hampa bikin emosi	-4
+cacat banget	-3
+beku ngeselin	-3
+menyesal dan bikin kesel	-5
+terenkripsi fatal	-2
+tidak terlindungi terus	-5
+mengenaskan doang	-1
+masalah berlarut banget	-4
+menyusahkan terus	-2
+tidak berfungsi terus	-1
+abai doang	-1
+tidak ada janji terus	-1
+terdistraksi bikin emosi	-2
+bikin kesel mulu	-5
+tiruan dan bikin kesel	-3
+gagal login dan bikin kesel	-4
+menyimpang fatal	-2
+rendah mulu	-5
+rendah bikin emosi	-5
+samar terus	-3
+brutal mulu	-3
+tidak support doang	-1
+terdistraksi doang	-4
+kurang relevan banget	-1
+melanggar hukum mulu	-1
+tidak bisa dibuka parah	-1
+gagal login banget	-1
+menguras kuota bikin emosi	-4
+boros kuota fatal	-4
+mengganggu fokus bikin emosi	-4
+terputus-putus bikin emosi	-4
+tidak konsisten fatal	-2
+tidak teratur ngeselin	-2
+tidak ada update parah	-3
+terenkripsi terus	-2
+sering down doang	-5
+dukungan buruk dan bikin kesel	-1
+restart sendiri terus	-1
+gaduh terus	-2
+putus terus	-5
+buruk rupa fatal	-2
+pixelated doang	-3
+tidak ada isinya parah	-5
+tidak jelas dan bikin kesel	-1
+tidak user-friendly dan bikin kesel	-5
+tidak ada dukungan dan bikin kesel	-4
+tidak berguna bikin emosi	-5
+terpuruk terus	-1
+cacat doang	-5
+jadul ngeselin	-5
+kehancuran ngeselin	-1
+tidak ada perbaikan dan bikin kesel	-3
+mengenaskan mulu	-2
+izin kurang doang	-3
+membingungkan doang	-2
+lemot ngeselin	-5
+tidak penting parah	-3
+terpecah fatal	-3
+berisik ngeselin	-5
+tidak konsisten dan bikin kesel	-2
+kurang jelas banget	-2
+tidak bisa diubah dan bikin kesel	-1
+versi lama terus	-1
+hampa ngeselin	-1
+tidak ada janji doang	-5
+keraguan parah	-1
+menjijikkan doang	-4
+redup mulu	-2
+tidak nyambung fatal	-5
+ringkih bikin emosi	-5
+salah ngeselin	-1
+tidak sah fatal	-4
+kosong dan bikin kesel	-1
+gagal sinkron banget	-3
+mencurigakan parah	-2
+menyayat hati fatal	-5
+tidak bisa dihapus terus	-5
+kedaluwarsa bikin emosi	-4
+ketinggalan mulu	-1
+terkunci terus	-2
+tanpa solusi doang	-2
+terlalu kompleks terus	-5
+tidak user-friendly fatal	-5
+berbahaya ngeselin	-3
+ikon membingungkan fatal	-1
+tidak bisa diandalkan mulu	-5
+tidak percaya ngeselin	-2
+buram parah	-1
+tidak lengkap banget	-1
+kerusakan mulu	-1
+rumit fatal	-2
+font aneh dan bikin kesel	-3
+tidak jernih fatal	-3
+akses ditolak bikin emosi	-2
+tidak ada dukungan terus	-4
+outdated doang	-2
+izin kurang mulu	-2
+mati total banget	-1
+tidak menarik terus	-3
+melanggar parah	-4
+terbatas banget	-5
+bobrok banget	-1
+merepotkan dan bikin kesel	-5
+musibah banget	-2
+sering logout dan bikin kesel	-3
+pemborosan doang	-3
+tidak cocok mulu	-4
+tidak terlindungi mulu	-1
+boros baterai doang	-2
+susah diatur parah	-4
+kusam terus	-5
+boros baterai banget	-1
+kuno mulu	-5
+berani terus	-4
+korup banget	-3
+tidak jalan terus	-1
+gagal login fatal	-3
+spekulatif dan bikin kesel	-1
+tidak diizinkan banget	-1
+petunjuk minim fatal	-3
+kabur banget	-2
+tidak tentu parah	-1
+menyayat hati banget	-2
+palsu terus	-2
+tidak logis terus	-1
+kontras buruk parah	-1
+tidak up to date mulu	-5
+gangguan dan bikin kesel	-3
+masih beta terus	-4
+tidak ada janji bikin emosi	-3
+prasangka mulu	-4
+tidak patut fatal	-3
+salah otorisasi parah	-5
+hang fatal	-3
+tidak terbaca terus	-5
+kualitas rendah ngeselin	-4
+tampilan kuno banget	-5
+tidak bisa diubah parah	-4
+hampa terus	-2
+inferior banget	-2
+menyesatkan terus	-2
+tidak maksimal fatal	-2
+tidak konsentrasi mulu	-3
+tidak cocok banget	-4
+menakutkan terus	-2
+berani dan bikin kesel	-4
+tidak berhubungan bikin emosi	-5
+penanganan buruk bikin emosi	-1
+pengembang cuek dan bikin kesel	-3
+spam doang	-5
+ikon membingungkan parah	-1
+petunjuk minim parah	-2
+tidak intuitif terus	-4
+hancur bikin emosi	-3
+masih beta bikin emosi	-1
+layanan buruk bikin emosi	-3
+horor mulu	-3
+terhenti bikin emosi	-5
+tidak dikenali parah	-4
+lambat bikin emosi	-1
+mengerikan doang	-1
+suram dan bikin kesel	-5
+seram ngeselin	-5
+bising terus	-3
+data bocor doang	-5
+tidak efektif mulu	-1
+tidak up to date fatal	-4
+spekulatif fatal	-3
+melanggar hukum parah	-5
+tidak direspon parah	-4
+tidak kompatibel terus	-5
+fitur kosong bikin emosi	-5
+mengganggu mulu	-2
+tidak terencana dan bikin kesel	-3
+kurang jelas mulu	-4
+keluar topik fatal	-3
+spekulatif terus	-3
+tutup dan bikin kesel	-4
+gagal parah	-4
+pesimis fatal	-3
+kurang fitur terus	-2
+sering logout mulu	-5
+laggy parah	-2
+warna pudar doang	-1
+tidak estetis terus	-2
+spekulatif doang	-4
+layanan buruk parah	-2
+masih beta doang	-2
+membingungkan mulu	-5
+menyesatkan mulu	-1
+jelek fatal	-1
+lapuk banget	-4
+krisis parah	-2
+rendah parah	-5
+menguras kuota parah	-3
+kaku banget	-2
+tidak direspon doang	-2
+bikin bingung bikin emosi	-3
+jelek sekali doang	-1
+tidak berhubungan mulu	-1
+kedaluwarsa ngeselin	-5
+membebani terus	-3
+tidak produktif parah	-2
+konten minim ngeselin	-3
+kalah parah	-4
+tertinggal dan bikin kesel	-4
+rapuh ngeselin	-4
+banyak masalah banget	-4
+iklan menyesatkan banget	-5
+error kode parah	-5
+gulung tikar banget	-1
+tidak terencana terus	-2
+illegal ngeselin	-4
+meremehkan mulu	-5
+nge-freeze ngeselin	-2
+rapuh fatal	-2
+murahan terus	-4
+spam banget	-5
+terekspos banget	-5
+menyerah banget	-3
+gagal ngeselin	-4
+gulung tikar terus	-2
+tidak lengkap ngeselin	-1
+tidak aman fatal	-3
+kuno doang	-5
+tidak logis fatal	-3
+janji palsu fatal	-5
+kaku ngeselin	-1
+terbelakang terus	-1
+tidak maksimal doang	-5
+konten minim mulu	-5
+kontras buruk bikin emosi	-3
+palsu bikin emosi	-5
+kosong parah	-2
+tidak intuitif banget	-1
+mencurigakan terus	-4
+menyeramkan banget	-3
+ringkih doang	-2
+menakutkan fatal	-4
+tidak ada janji banget	-4
+putus banget	-5
+tidak berguna terus	-2
+jadul mulu	-4
+fitur dicabut dan bikin kesel	-5
+tidak sesuai mulu	-3
+tidak bermoral dan bikin kesel	-3
+tidak sepadan bikin emosi	-5
+memakan memori bikin emosi	-5
+tidak transparan parah	-2
+membosankan banget	-3
+kejam dan bikin kesel	-5
+licik doang	-5
+crash terus doang	-5
+penuh bug parah	-3
+pemborosan ngeselin	-3
+tidak ada suara mulu	-3
+menipu banget	-1
+tidak nyambung dan bikin kesel	-2
+tidak diizinkan mulu	-3
+buruk ngeselin	-1
+tidak layak dan bikin kesel	-5
+tidak bisa dihapus fatal	-1
+berakhir fatal	-1
+kerusakan fatal	-4
+bikin bingung dan bikin kesel	-3
+kerugian banget	-3
+suara serak dan bikin kesel	-5
+tidak menarik banget	-2
+menyebalkan mulu	-2
+hampa doang	-3
+menipu dan bikin kesel	-4
+buruk rupa ngeselin	-4
+tidak sah parah	-5
+mental banget	-2
+akses ditolak mulu	-4
+tertinggal ngeselin	-1
+mundur mulu	-2
+pesan error fatal	-5
+berisiko banget	-2
+ketidakpercayaan ngeselin	-1
+ngadat ngeselin	-5
+tidak manusiawi bikin emosi	-5
+tidak otomatis mulu	-1
+ambigu banget	-2
+memakan memori parah	-2
+memusingkan bikin emosi	-4
+kumuh bikin emosi	-2
+tragedi parah	-3
+kerugian bikin emosi	-4
+belum matang banget	-5
+ribet ngeselin	-5
+tidak variatif parah	-3
+parah doang	-2
+usang doang	-5
+sangat jelek banget	-4
+trouble banget	-2
+konten minim dan bikin kesel	-1
+tidak ada suara fatal	-5
+stuck parah	-1
+produk cacat mulu	-4
+tidak fokus banget	-2
+tidak estetis parah	-3
+fitur berbayar tersembunyi mulu	-4
+kadaluarsa doang	-5
+menyeramkan ngeselin	-4
+regret dan bikin kesel	-1
+tidak bisa dicari parah	-1
+tidak up to date bikin emosi	-4
+gangguan mulu	-1
+kerusakan doang	-1
+keluar topik parah	-5
+tanpa arahan fatal	-3
+sia-sia parah	-1
+tidak layak ngeselin	-2
+ambigu dan bikin kesel	-3
+tidak produktif mulu	-3
+hancur mulu	-5
+mengerikan banget	-5
+dibatasi terus	-3
+blur terus	-3
+kumuh mulu	-4
+buram dan bikin kesel	-1
+gulung tikar fatal	-5
+tidak ada janji parah	-4
+melenceng fatal	-4
+kurang jelas ngeselin	-4
+bobrok ngeselin	-4
+kerusakan bikin emosi	-5
+buang-buang uang parah	-5
+lapuk parah	-4
+ambigu bikin emosi	-1
+regret parah	-1
+lemah bikin emosi	-5
+berat dan bikin kesel	-2
+tidak sesuai doang	-4
+tidak direspon fatal	-5
+bikin pusing doang	-4
+menjijikkan bikin emosi	-2
+terblokir bikin emosi	-2
+warna tabrakan doang	-2
+tidak sesuai deskripsi ngeselin	-3
+tidak ditemukan banget	-2
+tidak cocok ngeselin	-4
+tidak responsif doang	-3
+spekulatif parah	-5
+rentan banget	-1
+gema parah	-5
+kurang relevan mulu	-4
+file rusak doang	-5
+tidak efisien banget	-1
+ribet bikin emosi	-1
+tidak bisa save ngeselin	-3
+banyak iklan ngeselin	-3
+musibah fatal	-3
+tidak sync mulu	-1
+gangguan banget	-2
+meremehkan fatal	-3
+tidak berfungsi parah	-2
+tidak diindahkan doang	-5
+tidak efektif dan bikin kesel	-1
+tidak sesuai deskripsi doang	-1
+berbelit-belit ngeselin	-4
+data bocor terus	-1
+ketinggalan dan bikin kesel	-2
+meremehkan banget	-5
+kiamat banget	-5
+tidak jernih bikin emosi	-1
+iklan menyesatkan doang	-4
+akses ditolak parah	-4
+licik parah	-5
+menyimpang bikin emosi	-5
+trouble koneksi parah	-3
+kurang estetis mulu	-5
+curiga doang	-1
+tidak optimis banget	-3
+tidak etis parah	-5
+kusam bikin emosi	-5
+fitur berbayar tersembunyi bikin emosi	-1
+pengembang cuek fatal	-4
+tidak presisi dan bikin kesel	-5
+abai parah	-3
+keputusasaan mulu	-3
+tidak peduli banget	-1
+trouble koneksi banget	-4
+menyeramkan fatal	-3
+tidak responsif layar dan bikin kesel	-2
+berakhir dan bikin kesel	-4
+error terus terus	-1
+tidak pantas dan bikin kesel	-2
+peringatan merah bikin emosi	-3
+penipuan mulu	-5
+basi terus	-4
+mengganggu parah	-4
+menakutkan banget	-3
+respon lambat banget	-1
+menguras kuota banget	-5
+tidak terencana ngeselin	-4
+menipu ngeselin	-3
+illegal mulu	-2
+gambar pecah ngeselin	-5
+tidak adil banget	-5
+tidak siap banget	-4
+tidak adil mulu	-2
+kalah dan bikin kesel	-1
+buruk rupa parah	-1
+tidak nyambung terus	-5
+font aneh mulu	-5
+hampa dan bikin kesel	-2
+krisis doang	-5
+kurang estetis dan bikin kesel	-5
+tidak layak mulu	-3
+tidak dikenali bikin emosi	-5
+parah fatal	-4
+tidak konsisten parah	-2
+tidak recommended doang	-1
+menyedihkan doang	-1
+parah banget	-1
+tidak bisa buka dan bikin kesel	-2
+tidak manusiawi mulu	-4
+beku dan bikin kesel	-2
+terhambat terus	-4
+kaku bikin emosi	-3
+tidak efisien ngeselin	-5
+hampa parah	-4
+licik terus	-4
+tidak berhubungan doang	-3
+buram ngeselin	-2
+rawan parah	-3
+tidak presisi parah	-5
+tidak tentu terus	-5
+tidak recommended ngeselin	-4
+tidak bisa save fatal	-4
+membuang daya dan bikin kesel	-4
+gangguan terus	-5
+tidak peduli parah	-2
+tidak pasti fatal	-5
+malah mempersulit doang	-2
+ikon membingungkan doang	-5
+inferior parah	-3
+mundur ngeselin	-4
+masih beta banget	-2
+sia-sia banget	-4
+bising parah	-3
+kompleks bikin emosi	-2
+tidak patut mulu	-5
+kerugian fatal	-4
+tidak didengar parah	-5
+ketidakpercayaan mulu	-2
+petunjuk minim banget	-4
+dibatasi mulu	-3
+data hilang bikin emosi	-5
+terenkripsi bikin emosi	-5
+terburuk banget	-2
+kabur ngeselin	-1
+mengabaikan bikin emosi	-2
+rentan parah	-5
+berubah-ubah doang	-3
+sering down banget	-3
+membuang waktu bikin emosi	-2
+tiruan fatal	-4
+tidak ada isinya doang	-1
+bikin kesel parah	-3
+kalah mulu	-4
+murahan ngeselin	-3
+buram banget	-1
+terputus terus	-3
+tidak etis doang	-1
+tidak aman bikin emosi	-1
+tragis banget	-2
+banyak masalah bikin emosi	-2
+tidak terencana parah	-2
+memecah perhatian terus	-2
+terbuka ngeselin	-3
+respon lambat dan bikin kesel	-4
+redup fatal	-5
+tidak terencana banget	-4
+warna tabrakan fatal	-3
+menyayat hati terus	-2
+keluar sendiri ngeselin	-4
+tidak tertata bikin emosi	-3
+redup bikin emosi	-5
+merugikan mulu	-5
+janji palsu terus	-5
+mati total ngeselin	-5
+kehancuran dan bikin kesel	-5
+tidak up to date dan bikin kesel	-5
+data bocor mulu	-4
+kehampaan fatal	-4
+tidak konsentrasi dan bikin kesel	-2
+kaku terus	-1
+melanggar mulu	-4
+kehampaan bikin emosi	-5
+hang banget	-4
+tidak bermoral mulu	-2
+sia-sia ngeselin	-2
+lemah parah	-3
+boros kuota parah	-4
+bikin bingung ngeselin	-3
+izin kurang terus	-3
+bising dan bikin kesel	-1
+tidak bisa dibuka terus	-1
+tidak ada masa depan doang	-3
+melanggar hukum fatal	-1
+font aneh fatal	-1
+belum matang bikin emosi	-3
+pilihan terbatas bikin emosi	-3
+kumuh banget	-3
+sulit dipakai bikin emosi	-1
+ikon membingungkan banget	-3
+usang mulu	-1
+bikin kesel banget	-1
+gambar pecah dan bikin kesel	-1
+tidak bisa save dan bikin kesel	-3
+mental fatal	-4
+tidak responsif layar bikin emosi	-4
+membebani doang	-5
+error terus mulu	-3
+tidak terhubung doang	-1
+versi lama banget	-1
+cacat ngeselin	-5
+tidak sistematis mulu	-3
+mundur bikin emosi	-1
+lemah banget	-2
+memusingkan banget	-3
+blur dan bikin kesel	-2
+licik ngeselin	-4
+inferior terus	-3
+tidak adil dan bikin kesel	-1
+mudah diserang fatal	-3
+terekspos dan bikin kesel	-4
+kejam ngeselin	-5
+merepotkan mulu	-2
+kusam fatal	-5
+tidak sistematis terus	-1
+kurang fitur fatal	-5
+ngeri mulu	-5
+bangkrut bikin emosi	-3
+servis buruk banget	-4
+menyeramkan terus	-5
+spam ngeselin	-3
+gagal inisialisasi bikin emosi	-2
+putus fatal	-1
+jadul dan bikin kesel	-2
+illegal terus	-3
+terenkripsi parah	-5
+tidak pasti dan bikin kesel	-3
+tidak fokus parah	-3
+nyebelin fatal	-3
+terbatas bikin emosi	-3
+rawan mulu	-4
+negatif dan bikin kesel	-3
+tidak bisa dibuka mulu	-4
+dukungan buruk fatal	-1
+menyepelekan mulu	-2
+tidak bisa diubah ngeselin	-1
+tidak percaya banget	-1
+tidak bisa diandalkan bikin emosi	-3
+akses ditolak doang	-5
+tidak bermoral ngeselin	-4
+paling buruk banget	-3
+inferior mulu	-5
+membosankan bikin emosi	-4
+tidak diindahkan banget	-3
+mengenaskan ngeselin	-5
+gagal sinkron fatal	-5
+tidak terencana bikin emosi	-3
+tidak logis ngeselin	-3
+tidak etis mulu	-2
+bobrok bikin emosi	-4
+terbatas ngeselin	-3
+salah parah	-3
+servis buruk doang	-4
+terpuruk bikin emosi	-2
+curiga terus	-4
+keputusasaan fatal	-4
+neraka mulu	-1
+buram bikin emosi	-4
+blur ngeselin	-3
+cacat bikin emosi	-3
+tidak cocok fatal	-4
+korup dan bikin kesel	-2
+menyusahkan ngeselin	-1
+prasangka fatal	-1
+terbuka doang	-4
+tidak direspon ngeselin	-2
+janji palsu ngeselin	-4
+terputus-putus terus	-2
+parah bikin emosi	-3
+ambigu ngeselin	-5
+mengerikan mulu	-2
+lambat terus	-5
+kejam mulu	-4
+redup dan bikin kesel	-5
+putus bikin emosi	-4
+data bocor dan bikin kesel	-1
+tertinggal doang	-4
+tidak ada suara parah	-1
+akses ditolak banget	-2
+kurang relevan terus	-3
+prasangka ngeselin	-2
+selesai dan bikin kesel	-3
+tidak variatif bikin emosi	-4
+lemah terus	-1
+tidak ada update bikin emosi	-4
+monoton dan bikin kesel	-3
+penuh celah mulu	-3
+tidak signifikan mulu	-5
+melenceng bikin emosi	-4
+tidak terdeteksi terus	-3
+susah diatur mulu	-2
+menguras mulu	-5
+kerusakan parah	-2
+fitur kosong terus	-1
+ketinggalan doang	-1
+berbelit-belit bikin emosi	-1
+izin kurang banget	-4
+menyesatkan bikin emosi	-3
+tidak menarik mulu	-3
+menyusahkan dan bikin kesel	-5
+terputus bikin emosi	-2
+peringatan merah parah	-1
+tidak diizinkan doang	-2
+tidak ada respon terus	-4
+sembarangan bikin emosi	-4
+akses ditolak dan bikin kesel	-3
+kejam doang	-4
+menyerah fatal	-5
+banyak masalah parah	-2
+rendah fatal	-2
+kalah terus	-4
+tidak ada isinya banget	-3
+negatif banget	-2
+tidak jujur mulu	-2
+berantakan mulu	-3
+tidak layak bikin emosi	-3
+iklan menyesatkan fatal	-3
+bocor fatal	-3
+palsu parah	-1
+rawan dan bikin kesel	-4
+jelek sekali banget	-2
+ketidakpercayaan dan bikin kesel	-3
+samar parah	-2
+pesimis doang	-2
+mengganggu fokus dan bikin kesel	-5
+krisis bikin emosi	-1
+bising mulu	-3
+berubah-ubah banget	-3
+tidak berguna ngeselin	-5
+layanan buruk doang	-1
+paling buruk mulu	-1
+menyeramkan bikin emosi	-4
+tidak efektif parah	-5
+monoton fatal	-4
+peringatan merah banget	-2
+tidak fokus mulu	-2
+tidak menarik fatal	-3
+usang banget	-4
+memilukan parah	-5
+gagal bikin emosi	-5
+mengancam bikin emosi	-5
+menguras kuota mulu	-5
+sia-sia doang	-3
+data hilang banget	-3
+keluar sendiri parah	-2
+force close fatal	-5
+tutup mulu	-1
+tidak ada perbaikan terus	-4
+tidak terdeteksi doang	-3
+terputus dan bikin kesel	-2
+bangkrut mulu	-1
+monoton doang	-3
+usang fatal	-5
+mengancam mulu	-3
+parah terus	-5
+prasangka bikin emosi	-4
+mahal banget	-4
+terburuk ngeselin	-2
+redup ngeselin	-4
+murahan banget	-2
+tidak bisa save bikin emosi	-4
+menyeramkan doang	-3
+terbelakang banget	-5
+fitur dicabut banget	-1
+stuck fatal	-2
+gelap ngeselin	-2
+nyebelin bikin emosi	-5
+tidak efektif terus	-4
+outdated parah	-4
+tidak terbaca doang	-4
+terhambat doang	-1
+hancur parah	-1
+prasangka dan bikin kesel	-2
+terdistraksi banget	-5
+ngeri bikin emosi	-4
+petaka terus	-5
+menyebalkan dan bikin kesel	-5
+tidak bisa dicari terus	-2
+tidak bisa diakses fatal	-1
+mengerikan terus	-3
+tertinggal bikin emosi	-4
+tidak konsentrasi doang	-2
+banyak iklan dan bikin kesel	-5
+menyerah bikin emosi	-3
+trouble dan bikin kesel	-5
+tutup ngeselin	-1
+tidak sah ngeselin	-5
+error kode banget	-1
+hancur terus	-2
+gagal total bikin emosi	-3
+membuang daya bikin emosi	-1
+masih beta fatal	-4
+licik banget	-3
+gelap dan bikin kesel	-2
+dibatasi fatal	-1
+tidak ada isinya terus	-5
+bikin pusing fatal	-3
+tragis parah	-1
+tidak direspon bikin emosi	-3
+darurat banget	-4
+berisik mulu	-1
+tidak terhubung ngeselin	-4
+membuang waktu fatal	-4
+kurang relevan ngeselin	-3
+kecelakaan terus	-4
+tidak ada suara dan bikin kesel	-2
+tidak bisa dihapus ngeselin	-5
+interupsi ngeselin	-2
+tidak lengkap dan bikin kesel	-1
+gema mulu	-4
+terenkripsi banget	-1
+bikin pusing terus	-1
+tidak peka dan bikin kesel	-3
+tidak otomatis bikin emosi	-4
+illegal dan bikin kesel	-2
+buang-buang uang doang	-1
+bikin bingung fatal	-3
+sulit dipakai banget	-1
+tidak maksimal bikin emosi	-5
+sembunyi-sembunyi bikin emosi	-2
+terburuk doang	-3
+menguras banget	-3
+jelek dan bikin kesel	-3
+tidak recommended fatal	-3
+gaduh banget	-1
+menyimpang mulu	-5
+ketidakpastian ngeselin	-4
+terbelakang mulu	-4
+crash terus mulu	-3
+lemot dan bikin kesel	-5
+data bocor bikin emosi	-3
+restart sendiri banget	-3
+menguras baterai ngeselin	-4
+tidak estetis doang	-2
+jelek sekali bikin emosi	-3
+tidak ramah fatal	-1
+tidak bisa diunduh mulu	-2
+tidak support mulu	-4
+tidak aman dan bikin kesel	-4
+hampa fatal	-1
+rusak mulu	-1
+kumuh parah	-4
+tidak bisa buka fatal	-4
+berisiko ngeselin	-2
+terbatas dan bikin kesel	-1
+penuh bug dan bikin kesel	-1
+ngeri banget	-1
+terkunci bikin emosi	-5
+merugikan parah	-3
+iklan menyesatkan terus	-5
+suram ngeselin	-4
+ikon membingungkan mulu	-3
+kerugian dan bikin kesel	-3
+terekspos doang	-3
+tidak siap dan bikin kesel	-2
+tidak ada masa depan bikin emosi	-1
+penuh celah fatal	-4
+membuang waktu dan bikin kesel	-5
+lemot bikin emosi	-3
+tidak up to date banget	-3
+bobrok doang	-2
+crash terus bikin emosi	-2
+menguras kuota terus	-2
+tidak responsif fatal	-4
+warna tabrakan mulu	-1
+rusak ngeselin	-1
+tertinggal mulu	-3
+outdated mulu	-3
+bencana bikin emosi	-3
+berhenti tiba-tiba ngeselin	-1
+mudah diserang mulu	-1
+terputus ngeselin	-4
+terekspos bikin emosi	-5
+terbelakang dan bikin kesel	-1
+tidak bisa diandalkan ngeselin	-2
+salah fatal	-2
+tidak bermanfaat dan bikin kesel	-3
+acak-acakan ngeselin	-1
+kacau doang	-3
+janji palsu mulu	-1
+sangat jelek mulu	-2
+tidak ada respon bikin emosi	-2
+tidak bisa diandalkan fatal	-5
+petaka fatal	-1
+tidak bisa dihapus mulu	-2
+trouble koneksi dan bikin kesel	-4
+tidak transparan bikin emosi	-5
+pengembang cuek terus	-2
+terhambat parah	-5
+pemborosan parah	-1
+font aneh doang	-2
+menyayat hati bikin emosi	-4
+tidak terbaca mulu	-2
+kejam terus	-5
+tidak bisa diunggah banget	-2
+tiruan parah	-3
+tidak bisa ditutup bikin emosi	-4
+tidak user-friendly doang	-2
+fitur dicabut doang	-5
+kabur fatal	-3
+mengabaikan parah	-2
+kaku fatal	-4
+bikin kesel bikin emosi	-4
+penipu ngeselin	-3
+bahaya banget	-3
+lapuk ngeselin	-1
+monoton bikin emosi	-5
+keliru parah	-4
+suram bikin emosi	-2
+warna tabrakan banget	-4
+tidak manusiawi fatal	-3
+menyusahkan mulu	-1
+tidak teratur terus	-3
+membuang waktu banget	-2
+menyerah doang	-2
+mahal fatal	-1
+tidak penting banget	-3
+gaduh fatal	-1
+tidak nyambung mulu	-2
+gagal total parah	-2
+bangkrut dan bikin kesel	-1
+tidak jalan mulu	-4
+acak-acakan banget	-3
+basi fatal	-4
+masalah berlarut fatal	-2
+tidak responsif layar ngeselin	-5
+mengganggu fatal	-3
+hang terus	-1
+crash terus ngeselin	-3
+melenceng dan bikin kesel	-2
+monoton terus	-3
+terenkripsi mulu	-2
+tidak adaptif terus	-1
+hampa mulu	-3
+fitur dicabut ngeselin	-4
+tidak jernih mulu	-1
+rawan fatal	-4
+tidak bisa diunggah mulu	-2
+iklan menyesatkan mulu	-5
+spam fatal	-3
+mengganggu fokus terus	-2
+jadul terus	-4
+tidak sepadan dan bikin kesel	-5
+kontras buruk doang	-2
+fitur berbayar tersembunyi doang	-5
+tidak dikenali doang	-5
+rentan bikin emosi	-2
+warna pudar fatal	-1
+berisik dan bikin kesel	-3
+tidak aman doang	-3
+menjengkelkan terus	-5
+tidak sesuai deskripsi banget	-1
+file rusak ngeselin	-3
+inferior ngeselin	-5
+salah otorisasi fatal	-3
+bencana ngeselin	-1
+suram mulu	-5
+bobrok terus	-3
+banyak iklan fatal	-1
+tidak sesuai ngeselin	-5
+masih beta parah	-3
+penipuan dan bikin kesel	-2
+kuno parah	-5
+tidak manusiawi ngeselin	-1
+mundur banget	-4
+musibah dan bikin kesel	-5
+sembarangan mulu	-1
+beku mulu	-2
+menguras baterai dan bikin kesel	-4
+ambigu terus	-1
+tidak bisa diunggah parah	-3
+tidak intuitif ngeselin	-2
+memakan memori terus	-5
+tidak akurat fatal	-3
+busuk dan bikin kesel	-3
+kurang estetis banget	-1
+illegal doang	-4
+terpecah mulu	-3
+rumit dan bikin kesel	-5
+tidak lengkap parah	-2
+buram mulu	-3
+tidak bisa dihapus banget	-2
+menyebalkan fatal	-4
+paling buruk dan bikin kesel	-2
+pesimis mulu	-5
+tidak bisa ditutup fatal	-2
+putus ngeselin	-3
+tidak ada masa depan ngeselin	-2
+tidak teratur doang	-1
+tidak optimis fatal	-4
+menyusahkan banget	-1
+kaku dan bikin kesel	-2
+musibah mulu	-3
+buang-buang uang terus	-2
+mengabaikan doang	-2
+regret doang	-1
+memecah perhatian doang	-3
+gulung tikar doang	-1
+basi dan bikin kesel	-3
+kadaluarsa bikin emosi	-2
+illegal banget	-4
+murahan parah	-3
+kerugian ngeselin	-3
+ricuh ngeselin	-2
+tidak penting ngeselin	-5
+mati total doang	-4
+stuck terus	-2
+nge-freeze parah	-3
+membingungkan fatal	-5
+tidak didengar bikin emosi	-1
+lambat mulu	-5
+berpotensi bahaya ngeselin	-1
+error kode dan bikin kesel	-2
+kejam fatal	-4
+tidak etis terus	-3
+boros kuota ngeselin	-4
+berani fatal	-1
+tidak efektif banget	-5
+penanganan buruk mulu	-4
+bocor banget	-3
+paling buruk ngeselin	-2
+banyak iklan bikin emosi	-3
+tidak pantas bikin emosi	-2
+tidak kompatibel banget	-2
+data hilang parah	-3
+seram parah	-3
+tidak bisa dicari bikin emosi	-1
+memakan memori doang	-1
+tidak sesuai terus	-3
+berakhir terus	-4
+menyesal doang	-1
+tidak variatif fatal	-1
+gagal total terus	-3
+memecah perhatian parah	-2
+penanganan buruk parah	-3
+tidak jelas ngeselin	-3
+kaku parah	-5
+sering logout parah	-4
+terlalu kompleks fatal	-4
+tidak bisa diakses ngeselin	-2
+tidak valid terus	-3
+murahan dan bikin kesel	-5
+tidak ada dukungan mulu	-2
+terputus banget	-3
+tidak bisa dicari fatal	-4
+tidak layak banget	-4
+sering logout bikin emosi	-1
+ketidakpastian dan bikin kesel	-1
+ketidakpastian doang	-1
+trouble koneksi mulu	-3
+buram terus	-5
+gelap bikin emosi	-1
+rumit ngeselin	-1
+terputus fatal	-4
+gema banget	-2
+tidak adaptif doang	-1
+kosong banget	-3
+berubah-ubah parah	-2
+jelek sekali ngeselin	-1
+penyelesaian sulit parah	-5
+menyesal fatal	-3
+tidak pantas terus	-1
+gulung tikar parah	-1
+menyimpang terus	-4
+rentan fatal	-4
+kosong fatal	-1
+konten minim fatal	-5
+ikon membingungkan ngeselin	-5
+tidak ada bantuan fatal	-3
+terbatas mulu	-2
+tidak penting dan bikin kesel	-1
+menyedihkan fatal	-1
+tidak konsentrasi fatal	-2
+error terus banget	-3
+buruk bikin emosi	-3
+akses ditolak ngeselin	-5
+ribet banget	-3
+rapuh banget	-2
+tidak bisa diunduh parah	-2
+kabur bikin emosi	-5
+terbuka dan bikin kesel	-1
+sulit dipakai doang	-4
+kerugian doang	-1
+penanganan buruk fatal	-1
+tidak efisien terus	-1
+kacau banget	-4
+menjijikkan mulu	-3
+tidak user-friendly mulu	-2
+menjijikkan terus	-4
+beku fatal	-5
+membebani mulu	-3
+menjijikkan ngeselin	-1
+beku doang	-2
+tidak terhubung dan bikin kesel	-4
+mengancam doang	-1
+tidak ditemukan ngeselin	-4
+tidak optimis ngeselin	-4
+memusingkan doang	-5
+menyebalkan doang	-4
+mengerikan bikin emosi	-1
+rentan dan bikin kesel	-2
+monoton mulu	-5
+versi lama fatal	-5
+abai fatal	-2
+tidak sync terus	-2
+bahaya bikin emosi	-2
+terburuk terus	-4
+tidak otomatis banget	-3
+penipuan ngeselin	-1
+tidak sync parah	-4
+membuang waktu terus	-3
+menyimpang parah	-3
+menyedihkan mulu	-1
+tidak nyambung parah	-5
+tidak sepadan banget	-3
+bencana doang	-4
+redup parah	-4
+usang terus	-5
+keliru dan bikin kesel	-4
+tidak signifikan terus	-3
+membuang waktu mulu	-4
+izin kurang ngeselin	-5
+penuh bug terus	-4
+musibah doang	-1
+blur bikin emosi	-1
+menyayat hati doang	-2
+gagal login mulu	-2
+bad UX banget	-1
+ketidakpercayaan doang	-1
+mengabaikan banget	-1
+terganggu ngeselin	-2
+belum sempurna ngeselin	-3
+font aneh ngeselin	-4
+tidak fokus terus	-5
+tidak jujur ngeselin	-5
+selesai ngeselin	-1
+tidak adil ngeselin	-1
+tidak diizinkan parah	-1
+bangkrut doang	-2
+abai banget	-1
+mencurigakan ngeselin	-2
+memusingkan fatal	-1
+tidak efektif fatal	-5
+produk cacat ngeselin	-4
+belum sempurna fatal	-5
+tidak pasti bikin emosi	-4
+tidak akurat parah	-2
+tidak terhubung parah	-1
+samar dan bikin kesel	-5
+bising ngeselin	-1
+ancaman bikin emosi	-4
+horor dan bikin kesel	-2
+penipuan bikin emosi	-3
+berpotensi bahaya fatal	-2
+tidak berfungsi banget	-2
+tidak up to date parah	-2
+tidak signifikan banget	-5
+hang parah	-4
+neraka bikin emosi	-5
+tidak puas banget	-3
+tidak terdeteksi fatal	-5
+tanpa solusi ngeselin	-2
+tidak sistematis doang	-1
+tidak puas doang	-2
+mencurigakan fatal	-1
+kualitas rendah dan bikin kesel	-2
+kalah bikin emosi	-3
+kehampaan banget	-3
+risiko terus	-4
+boros baterai bikin emosi	-2
+tidak ada dukungan bikin emosi	-3
+selesai fatal	-2
+mencurigakan banget	-4
+tidak bisa diunggah bikin emosi	-2
+tidak manusiawi banget	-2
+licik mulu	-1
+terdistraksi mulu	-4
+rentan terus	-1
+masalah berlarut terus	-2
+bad UX parah	-1
+berani bikin emosi	-1
+tidak bisa diunggah dan bikin kesel	-4
+pemborosan dan bikin kesel	-5
+banyak iklan parah	-3
+terbuka fatal	-2
+penyelesaian sulit bikin emosi	-3
+keraguan fatal	-2
+menguras kuota fatal	-2
+layanan buruk terus	-4
+interupsi dan bikin kesel	-4
+laggy doang	-4
+masalah berlarut ngeselin	-1
+tidak responsif layar doang	-4
+prasangka doang	-3
+penghamburan bikin emosi	-1
+tidak bisa diunggah terus	-2
+tidak menarik dan bikin kesel	-5
+kurang fitur bikin emosi	-2
+tidak produktif bikin emosi	-5
+tidak patut doang	-4
+menjengkelkan doang	-2
+tidak menarik bikin emosi	-2
+menipu fatal	-5
+krisis fatal	-4
+basi bikin emosi	-3
+ringkih banget	-2
+tidak bisa diakses doang	-5
+kecelakaan banget	-1
+malapetaka doang	-4
+tidak lengkap doang	-4
+nyebelin banget	-5
+tidak ramah doang	-3
+malah mempersulit parah	-5
+pixelated ngeselin	-2
+tidak ada masa depan fatal	-4
+acak-acakan terus	-4
+tidak tentu doang	-1
+tidak terlindungi parah	-5
+crash mendadak terus	-4
+buruk rupa dan bikin kesel	-2
+ngeri ngeselin	-5
+menyerah ngeselin	-2
+kiamat mulu	-2
+salah otorisasi bikin emosi	-3
+freezing bikin emosi	-3
+neraka banget	-5
+tidak cocok doang	-1
+gagal total fatal	-4
+neraka doang	-5
+rentan mulu	-1
+terkunci dan bikin kesel	-4
+horor bikin emosi	-3
+berantakan doang	-1
+salah dan bikin kesel	-1
+tidak teratur banget	-5
+gagal doang	-1
+tidak pasti ngeselin	-4
+terganggu terus	-5
+tidak adaptif mulu	-1
+tidak presisi fatal	-1
+trouble parah	-1
+berbelit-belit fatal	-4
+privasi terancam bikin emosi	-5
+menyesal mulu	-2
+memakan memori banget	-3
+tidak fokus doang	-1
+memecah perhatian dan bikin kesel	-2
+nyebelin ngeselin	-1
+penuh bug mulu	-1
+ketidakpastian fatal	-3
+menguras parah	-2
+belum matang doang	-2
+penyelesaian sulit dan bikin kesel	-3
+tidak konsisten banget	-1
+berani parah	-1
+terlalu kompleks doang	-3
+banyak masalah doang	-1
+tanpa arahan dan bikin kesel	-4
+tidak patut dan bikin kesel	-2
+penyelesaian sulit doang	-2
+regret ngeselin	-3
+keluar sendiri fatal	-4
+tidak ada isinya bikin emosi	-2
+selesai terus	-1
+tidak manusiawi doang	-5
+keputusasaan doang	-2
+gaduh dan bikin kesel	-5
+seram fatal	-1
+tidak ada perbaikan doang	-2
+mengabaikan ngeselin	-5
+buang-buang uang bikin emosi	-1
+tidak ada perbaikan mulu	-4
+mengganggu ngeselin	-2
+file rusak bikin emosi	-3
+ricuh fatal	-3
+bobrok mulu	-3
+bikin pusing ngeselin	-4
+tidak terdeteksi dan bikin kesel	-3
+suara serak ngeselin	-5
+mundur parah	-5
+tidak pasti mulu	-5
+tidak peka fatal	-3
+tidak responsif banget	-3
+mundur terus	-4
+berisiko doang	-3
+janji palsu parah	-2
+tidak bisa buka doang	-5
+mengganggu banget	-2
+hilang data fatal	-1
+buruk rupa doang	-3
+kerugian mulu	-5
+tidak bisa diakses bikin emosi	-5
+kurang estetis doang	-2
+tidak percaya bikin emosi	-4
+tidak estetis mulu	-3
+kedaluwarsa banget	-3
+nyebelin mulu	-3
+lapuk terus	-1
+gelap mulu	-3
+tidak presisi doang	-4
+petaka ngeselin	-4
+menyebalkan bikin emosi	-5
+beku terus	-2
+tanpa arahan bikin emosi	-1
+tidak bisa diunggah ngeselin	-5
+gagal login parah	-4
+gagal dan bikin kesel	-1
+ketidakpercayaan fatal	-2
+tragedi ngeselin	-2
+rentan virus bikin emosi	-1
+kalah ngeselin	-5
+tidak sah mulu	-5
+tidak cocok terus	-2
+tidak etis ngeselin	-4
+kehampaan ngeselin	-5
+prasangka parah	-5
+tidak layak fatal	-4
+tidak bisa buka parah	-2
+brutal banget	-3
+berat fatal	-3
+terpecah terus	-2
+neraka dan bikin kesel	-3
+redup terus	-1
+tidak adil terus	-4
+merugikan dan bikin kesel	-5
+tidak bisa ditutup ngeselin	-5
+tidak puas fatal	-2
+cacat parah	-3
+tidak bisa diunduh ngeselin	-5
+gangguan fatal	-2
+tidak jujur parah	-1
+tidak support ngeselin	-3
+tidak ada respon doang	-4
+tidak terdeteksi ngeselin	-1
+paling buruk doang	-4
+meremehkan bikin emosi	-1
+kualitas rendah mulu	-3
+seram mulu	-2
+terekspos mulu	-2
+tidak transparan banget	-1
+inferior dan bikin kesel	-5
+ringkih fatal	-4
+kosong doang	-1
+kerusakan terus	-3
+tidak optimis terus	-1
+mental ngeselin	-1
+tidak user-friendly parah	-1
+tidak estetis dan bikin kesel	-2
+keputusasaan parah	-5
+tidak konsentrasi parah	-5
+lambat fatal	-4
+kehampaan parah	-3
+keluar topik doang	-5
+menguras baterai terus	-1
+tidak bisa diubah doang	-1
+murahan mulu	-3
+tidak penting fatal	-5
+penyelesaian sulit mulu	-4
+hampa banget	-3
+berantakan ngeselin	-2
+menyayat hati dan bikin kesel	-3
+terblokir dan bikin kesel	-3
+penipu parah	-2
+selesai mulu	-2
+respon lambat parah	-4
+tidak nyambung ngeselin	-4
+rapuh mulu	-5
+tidak up to date terus	-3
+data bocor parah	-4
+dukungan buruk bikin emosi	-5
+gelap fatal	-3
+tertinggal parah	-4
+tidak ada respon fatal	-2
+berisiko fatal	-5
+tidak penting mulu	-2
+jelek sekali terus	-3
+mudah diserang doang	-4
+keputusasaan bikin emosi	-5
+menyayat hati parah	-3
+mengganggu doang	-2
+tidak sah dan bikin kesel	-3
+nge-freeze dan bikin kesel	-3
+memilukan doang	-2
+gagal inisialisasi ngeselin	-5
+tidak ada bantuan mulu	-5
+tidak puas terus	-3
+gagal inisialisasi fatal	-5
+kecelakaan doang	-1
+jadul bikin emosi	-1
+kerugian parah	-2
+hilang data doang	-1
+palsu banget	-2
+tidak pasti banget	-5
+data bocor banget	-5
+ikon membingungkan dan bikin kesel	-5
+nge-freeze terus	-2
+tidak nyambung bikin emosi	-4
+tidak teratur fatal	-2
+terganggu doang	-5
+tidak ada perbaikan bikin emosi	-4
+regret banget	-1
+keluar topik banget	-2
+berbahaya mulu	-1
+mengganggu terus	-1
+versi lama dan bikin kesel	-4
+kedaluwarsa doang	-4
+tidak bisa buka terus	-2
+lambat dan bikin kesel	-5
+tiruan bikin emosi	-2
+kurang estetis fatal	-4
+seram terus	-4
+tidak support dan bikin kesel	-1
+tidak ada perbaikan fatal	-5
+curiga fatal	-3
+bangkrut parah	-1
+keluar sendiri terus	-1
+terhambat dan bikin kesel	-1
+keluar sendiri bikin emosi	-1
+laggy terus	-1
+memilukan ngeselin	-1
+masih beta dan bikin kesel	-2
+ricuh terus	-1
+berbelit-belit banget	-2
+tidak bermanfaat ngeselin	-2
+data hilang doang	-4
+bikin pusing parah	-2
+lemah doang	-3
+kualitas rendah parah	-3
+memecah perhatian fatal	-1
+tidak bisa diubah bikin emosi	-4
+kumuh ngeselin	-4
+menyepelekan fatal	-4
+hang dan bikin kesel	-5
+nge-freeze fatal	-1
+tidak terdeteksi bikin emosi	-5
+tidak diizinkan fatal	-4
+terpecah bikin emosi	-5
+acak-acakan bikin emosi	-1
+merugikan ngeselin	-4
+ancaman mulu	-1
+tidak dikenali terus	-3
+licik fatal	-3
+hancur ngeselin	-2
+buang-buang uang mulu	-3
+tidak bisa ditutup banget	-3
+memusingkan mulu	-4
+tidak bisa diandalkan terus	-1
+kehancuran mulu	-3
+tidak recommended mulu	-1
+berubah-ubah mulu	-3
+ngeri parah	-3
+boros kuota dan bikin kesel	-2
+tutup bikin emosi	-3
+tidak percaya fatal	-2
+beku bikin emosi	-4
+terlalu kompleks ngeselin	-1
+paling buruk bikin emosi	-2
+usang bikin emosi	-4
+bahaya mulu	-2
+stuck mulu	-2
+pesan error mulu	-5
+salah terus	-3
+menguras baterai fatal	-4
+bencana fatal	-1
+mahal parah	-2
+tidak terdeteksi mulu	-1
+terhenti ngeselin	-5
+penuh celah ngeselin	-3
+kiamat bikin emosi	-3
+tidak konsisten mulu	-1
+bangkrut banget	-4
+warna pudar terus	-1
+tidak bermanfaat fatal	-1
+sering down bikin emosi	-4
+terpuruk mulu	-4
+bikin marah bikin emosi	-5
+tidak berguna doang	-4
+malapetaka mulu	-1
+malapetaka parah	-5
+bikin marah ngeselin	-2
+tidak efektif doang	-2
+mengenaskan banget	-2
+menyesal banget	-4
+mudah diserang dan bikin kesel	-1
+membosankan dan bikin kesel	-4
+outdated bikin emosi	-4
+hilang data parah	-2
+iklan menyesatkan parah	-5
+tidak jujur terus	-1
+tidak siap fatal	-3
+berisiko dan bikin kesel	-4
+kehancuran terus	-1
+iklan menyesatkan bikin emosi	-3
+tidak nyambung banget	-4
+tidak sync ngeselin	-5
+tidak dikenali fatal	-4
+nge-freeze doang	-3
+penyelesaian sulit ngeselin	-4
+regret fatal	-4
+berani doang	-3
+negatif fatal	-5
+abai bikin emosi	-1
+mengancam ngeselin	-5
+susah diatur bikin emosi	-2
+tidak kompatibel dan bikin kesel	-3
+penghamburan parah	-4
+bikin kesel doang	-2
+brutal parah	-2
+melanggar hukum doang	-5
+busuk ngeselin	-1
+tidak ditemukan dan bikin kesel	-5
+outdated terus	-3
+crash terus parah	-3
+penuh bug doang	-5
+tidak adil fatal	-4
+acak-acakan doang	-5
+salah bikin emosi	-2
+ancaman ngeselin	-4
+tidak variatif terus	-4
+rentan virus parah	-1
+fitur berbayar tersembunyi parah	-5
+gagal sinkron bikin emosi	-2
+tidak efisien dan bikin kesel	-2
+bikin kesel dan bikin kesel	-3
+gagal inisialisasi dan bikin kesel	-3
+tidak presisi bikin emosi	-1
+mudah diserang parah	-2
+hang ngeselin	-1
+rendah dan bikin kesel	-4
+tidak maksimal mulu	-2
+tutup parah	-2
+tidak logis parah	-1
+banyak masalah fatal	-1
+sering down terus	-3
+ilegal doang	-1
+ricuh doang	-1
+kecelakaan dan bikin kesel	-2
+banyak masalah mulu	-2
+keluar topik bikin emosi	-4
+trouble mulu	-5
+penipu dan bikin kesel	-5
+spam mulu	-4
+tanpa solusi dan bikin kesel	-3
+servis buruk parah	-1
+penuh celah dan bikin kesel	-1
+force close dan bikin kesel	-2
+petunjuk minim dan bikin kesel	-3
+sering logout banget	-5
+korup doang	-3
+warna pudar banget	-4
+membebani banget	-5
+tidak konsentrasi banget	-4
+memilukan bikin emosi	-2
+macet fatal	-1
+kurang jelas bikin emosi	-1
+tidak tertata banget	-2
+gagal login doang	-5
+kontras buruk ngeselin	-5
+tidak adil doang	-2
+tidak jelas terus	-3
+tidak kompatibel bikin emosi	-2
+sangat jelek terus	-1
+basi banget	-1
+tidak bermoral parah	-4
+mengecewakan terus	-1
+malapetaka ngeselin	-2
+fitur dicabut terus	-4
+pesan error banget	-4
+penuh celah bikin emosi	-4
+produk cacat dan bikin kesel	-5
+abai terus	-5
+kehancuran fatal	-2
+tidak kompatibel fatal	-5
+tidak ditemukan doang	-4
+tidak bermoral doang	-3
+tidak konsisten terus	-5
+tidak sah bikin emosi	-5
+keluar sendiri doang	-4
+lemah dan bikin kesel	-1
+menguras kuota dan bikin kesel	-5
+tidak cocok parah	-5
+tidak valid ngeselin	-4
+tidak ada bantuan ngeselin	-1
+meremehkan dan bikin kesel	-5
+tidak bisa diunduh bikin emosi	-4
+tidak teratur bikin emosi	-3
+peringatan merah mulu	-3
+tidak puas bikin emosi	-3
+melenceng mulu	-2
+penuh celah parah	-4
+tidak ada dukungan fatal	-1
+servis buruk fatal	-4
+kompleks dan bikin kesel	-4
+tidak ada janji ngeselin	-3
+ketidakpercayaan terus	-2
+gagal terus	-5
+murahan doang	-3
+melanggar hukum banget	-1
+tidak layak terus	-2
+buruk rupa terus	-3
+warna tabrakan bikin emosi	-3
+tragedi terus	-5
+dukungan buruk terus	-4
+terbatas parah	-2
+menakutkan bikin emosi	-1
+terhenti dan bikin kesel	-5
+penghamburan doang	-5
+penipuan fatal	-4
+menguras doang	-3
+salah otorisasi ngeselin	-3
+basi parah	-5
+suara serak fatal	-5
+curiga dan bikin kesel	-5
+bikin marah parah	-2
+tidak peduli doang	-5
+tidak sepadan doang	-5
+tidak lengkap fatal	-4
+gagal total dan bikin kesel	-3
+menyesatkan ngeselin	-4
+hilang data terus	-5
+murahan fatal	-4
+berbahaya parah	-3
+pemborosan banget	-5
+hang doang	-5
+lambat parah	-4
+mengecewakan bikin emosi	-1
+penghamburan dan bikin kesel	-1
+busuk doang	-3
+kadaluarsa mulu	-2
+fitur dicabut fatal	-3
+trouble fatal	-4
+keliru doang	-2
+berbahaya banget	-1
+susah diatur terus	-4
+tidak jelas parah	-3
+ngeri terus	-3
+tidak bisa dibuka banget	-1
+fitur kosong ngeselin	-3
+trouble koneksi fatal	-4
+masalah berlarut mulu	-1
+ketinggalan banget	-1
+kumuh terus	-5
+mengancam fatal	-1
+melanggar hukum dan bikin kesel	-5
+tidak peduli bikin emosi	-4
+tidak sepadan terus	-2
+menguras baterai bikin emosi	-5
+kompleks parah	-5
+tidak aman banget	-1
+musibah bikin emosi	-4
+kompleks terus	-2
+membosankan terus	-4
+penyelesaian sulit terus	-3
+jelek sekali dan bikin kesel	-2
+berat doang	-3
+menguras terus	-2
+akses ditolak fatal	-3
+tidak responsif ngeselin	-3
+kuno dan bikin kesel	-2
+tidak percaya parah	-1
+samar fatal	-4
+error kode ngeselin	-1
+ringkih ngeselin	-2
+tidak menarik doang	-3
+data hilang dan bikin kesel	-3
+ilegal dan bikin kesel	-1
+bocor dan bikin kesel	-3
+konten minim doang	-2
+dukungan buruk mulu	-3
+bahaya fatal	-1
+ketidakpastian bikin emosi	-1
+macet bikin emosi	-2
+berbahaya fatal	-3
+tidak optimis parah	-1
+buruk dan bikin kesel	-3
+tidak recommended bikin emosi	-3
+tidak bisa buka bikin emosi	-3
+tidak ditemukan fatal	-1
+tidak terencana doang	-2
+gagal sinkron parah	-3
+negatif mulu	-2
+tidak berfungsi mulu	-3
+petaka doang	-3
+sembunyi-sembunyi banget	-1
+berantakan dan bikin kesel	-4
+membuang daya parah	-1
+tidak patut terus	-5
+tidak ada bantuan terus	-1
+tidak dikenali banget	-3
+kecelakaan bikin emosi	-2
+bobrok dan bikin kesel	-5
+monoton parah	-2
+membingungkan terus	-2
+tidak jelas fatal	-5
+gaduh mulu	-4
+penghamburan fatal	-4
+kuno banget	-2
+tidak percaya dan bikin kesel	-1
+tidak bisa diubah fatal	-1
+tidak ramah ngeselin	-3
+kompleks fatal	-3
+tidak presisi terus	-2
+penanganan buruk dan bikin kesel	-3
+menyeramkan dan bikin kesel	-1
+tidak transparan terus	-1
+kosong ngeselin	-2
+tidak ada dukungan doang	-2
+terenkripsi dan bikin kesel	-3
+rusak dan bikin kesel	-1
+tidak sync banget	-5
+gema dan bikin kesel	-5
+membuang waktu parah	-3
+suram terus	-3
+sia-sia dan bikin kesel	-4
+licik bikin emosi	-3
+tidak aman parah	-4
+tanpa solusi bikin emosi	-3
+tidak lengkap bikin emosi	-4
+tidak bermoral bikin emosi	-3
+menjengkelkan ngeselin	-2
+rentan virus ngeselin	-2
+gambar pecah terus	-1
+berubah-ubah bikin emosi	-2
+versi lama bikin emosi	-2
+terhambat fatal	-5
+tidak presisi banget	-5
+outdated dan bikin kesel	-2
+tidak manusiawi terus	-5
+tidak patut ngeselin	-1
+mengecewakan dan bikin kesel	-3
+ricuh mulu	-1
+boros baterai terus	-2
+izin kurang dan bikin kesel	-4
+kabur dan bikin kesel	-4
+pesan error terus	-4
+tidak puas mulu	-4
+tidak ada bantuan doang	-2
+regret terus	-1
+menyimpang dan bikin kesel	-1
+menyusahkan bikin emosi	-3
+tidak sesuai deskripsi dan bikin kesel	-4
+darurat ngeselin	-4
+tidak akurat mulu	-5
+tidak jalan bikin emosi	-5
+restart sendiri ngeselin	-5
+menyesatkan dan bikin kesel	-1
+membuang waktu ngeselin	-2
+tidak ada update banget	-5
+regret bikin emosi	-3
+melanggar fatal	-4
+tidak sistematis banget	-1
+tidak tentu bikin emosi	-2
+gangguan doang	-5
+tidak jernih dan bikin kesel	-5
+terputus-putus banget	-5
+ancaman parah	-2
+terbelakang ngeselin	-5
+tidak bermoral fatal	-4
+menjijikkan fatal	-1
+tidak support parah	-1
+kurang estetis ngeselin	-4
+tragis ngeselin	-4
+fitur berbayar tersembunyi banget	-5
+berat bikin emosi	-2
+monoton banget	-1
+menyepelekan parah	-2
+tidak signifikan dan bikin kesel	-5
+tidak diizinkan bikin emosi	-3
+rawan doang	-4
+tidak bisa dibuka doang	-2
+layanan buruk mulu	-4
+masih beta mulu	-4
+terkunci parah	-2
+tidak dikenali mulu	-1
+bising doang	-2
+membebani bikin emosi	-3
+berpotensi bahaya terus	-1
+menyerah terus	-4
+keliru terus	-2
+ribet fatal	-5
+tidak penting doang	-3
+terekspos fatal	-2
+spam dan bikin kesel	-1
+tutup terus	-5
+sia-sia fatal	-3
+berhenti tiba-tiba mulu	-2
+berisiko mulu	-5
+tidak signifikan ngeselin	-5
+menyerah dan bikin kesel	-4
+mengenaskan terus	-4
+mudah diserang terus	-4
+sulit dipakai parah	-3
+petunjuk minim doang	-4
+berisik banget	-5
+tidak terhubung mulu	-4
+tidak sah doang	-1
+jelek banget	-1
+monoton ngeselin	-4
+penanganan buruk ngeselin	-4
+interupsi terus	-1
+tertinggal banget	-5
+pengembang cuek ngeselin	-3
+bikin marah mulu	-1
+tampilan kuno parah	-3
+berbahaya terus	-5
+bikin marah doang	-1
+kumuh fatal	-2
+tidak bisa buka mulu	-2
+tidak ada dukungan ngeselin	-3
+tidak responsif terus	-4
+warna tabrakan parah	-4
+gangguan ngeselin	-2
+tidak fokus bikin emosi	-2
+penghamburan ngeselin	-4
+rusak terus	-2
+tidak responsif dan bikin kesel	-2
+susah diatur doang	-5
+sering logout ngeselin	-3
+menyimpang doang	-1
+gaduh parah	-1
+nyebelin dan bikin kesel	-5
+petaka parah	-4
+mengenaskan fatal	-4
+terputus-putus fatal	-1
+peringatan merah ngeselin	-5
+horor doang	-1
+tidak peka terus	-2
+terblokir banget	-3
+bobrok parah	-3
+merepotkan terus	-5
+susah diatur banget	-2
+tiruan doang	-3
+keluar sendiri banget	-3
+terbelakang bikin emosi	-2
+sangat jelek parah	-3
+bikin kesel fatal	-5
+berhenti tiba-tiba doang	-1
+belum sempurna dan bikin kesel	-5
+tidak jalan dan bikin kesel	-4
+tidak jujur banget	-1
+ketidakpercayaan banget	-4
+keraguan banget	-3
+freezing banget	-3
+rendah doang	-4
+bocor bikin emosi	-4
+susah diatur dan bikin kesel	-3
+bikin pusing dan bikin kesel	-5
+ambigu parah	-4
+nyebelin terus	-1
+layanan buruk dan bikin kesel	-4
+keliru bikin emosi	-1
+janji palsu dan bikin kesel	-4
+tidak percaya doang	-1
+terpecah parah	-5
+tidak maksimal dan bikin kesel	-3
+tanpa solusi parah	-1

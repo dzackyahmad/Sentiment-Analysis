@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+sastrawi
+transformers
+torch
+accelerate
+google-play-scraper
+altair==4.2.2
+transformers==4.40.1
+datasets
